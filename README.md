@@ -10,6 +10,9 @@ until magically your baby settles.
 ## Usage
 
 Run the script !
-``bash
+
+```bash
 ./dont-worry-be-happy.sh
 ```
+
+For Leo ...
